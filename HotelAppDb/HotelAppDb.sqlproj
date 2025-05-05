@@ -7,7 +7,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
     <ProjectGuid>{689c0ad5-2b5d-42c4-bbe9-06b69279721e}</ProjectGuid>
-    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql160DatabaseSchemaProvider</DSP>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql150DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
     </RootPath>
@@ -56,5 +56,29 @@
   <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
   <ItemGroup>
     <Folder Include="Properties" />
+    <Folder Include="dbo" />
+    <Folder Include="dbo\Tables" />
+    <Folder Include="dbo\Stored Procedures" />
+    <Folder Include="Scripts" />
+    <Folder Include="Publish Profiles" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo\Tables\RoomTypes.sql" />
+    <Build Include="dbo\Tables\Guests.sql" />
+    <Build Include="dbo\Tables\Rooms.sql" />
+    <Build Include="dbo\Tables\Bookings.sql" />
+    <Build Include="dbo\Stored Procedures\sp_Rooms_GetAvailableRooms.sql" />
+    <Build Include="dbo\Stored Procedures\sp_RoomTypes_GetAvailableTypes.sql" />
+    <Build Include="dbo\Stored Procedures\sp_Bookings_AddBooking.sql" />
+    <Build Include="dbo\Stored Procedures\sp_Guests_AddGuest.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="HotelAppDb.refactorlog" />
+  </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="Scripts\Script.PostDeployment.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Publish Profiles\HotelAppDb.publish.xml" />
   </ItemGroup>
 </Project>

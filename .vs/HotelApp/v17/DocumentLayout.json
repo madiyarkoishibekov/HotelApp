@@ -1,12 +1,96 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\themaddiyar\\source\\repos\\HotelApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{689C0AD5-2B5D-42C4-BBE9-06B69279721E}|HotelAppDb\\HotelAppDb.sqlproj|C:\\Users\\themaddiyar\\source\\repos\\HotelApp\\HotelAppDb\\dbo\\Stored Procedures\\sp_Guests_AddGuest.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{689C0AD5-2B5D-42C4-BBE9-06B69279721E}|HotelAppDb\\HotelAppDb.sqlproj|solutionrelative:HotelAppDb\\dbo\\Stored Procedures\\sp_Guests_AddGuest.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689C0AD5-2B5D-42C4-BBE9-06B69279721E}|HotelAppDb\\HotelAppDb.sqlproj|C:\\Users\\themaddiyar\\source\\repos\\HotelApp\\HotelAppDb\\dbo\\Stored Procedures\\sp_RoomTypes_GetAvailableTypes.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{689C0AD5-2B5D-42C4-BBE9-06B69279721E}|HotelAppDb\\HotelAppDb.sqlproj|solutionrelative:HotelAppDb\\dbo\\Stored Procedures\\sp_RoomTypes_GetAvailableTypes.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689C0AD5-2B5D-42C4-BBE9-06B69279721E}|HotelAppDb\\HotelAppDb.sqlproj|C:\\Users\\themaddiyar\\source\\repos\\HotelApp\\HotelAppDb\\dbo\\Stored Procedures\\sp_Bookings_AddBooking.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{689C0AD5-2B5D-42C4-BBE9-06B69279721E}|HotelAppDb\\HotelAppDb.sqlproj|solutionrelative:HotelAppDb\\dbo\\Stored Procedures\\sp_Bookings_AddBooking.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689C0AD5-2B5D-42C4-BBE9-06B69279721E}|HotelAppDb\\HotelAppDb.sqlproj|C:\\Users\\themaddiyar\\source\\repos\\HotelApp\\HotelAppDb\\dbo\\Stored Procedures\\sp_Rooms_GetAvailableRooms.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{689C0AD5-2B5D-42C4-BBE9-06B69279721E}|HotelAppDb\\HotelAppDb.sqlproj|solutionrelative:HotelAppDb\\dbo\\Stored Procedures\\sp_Rooms_GetAvailableRooms.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689C0AD5-2B5D-42C4-BBE9-06B69279721E}|HotelAppDb\\HotelAppDb.sqlproj|C:\\Users\\themaddiyar\\source\\repos\\HotelApp\\HotelAppDb\\dbo\\Stored Procedures\\sp_Rooms_GetAvailableRooms.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{689C0AD5-2B5D-42C4-BBE9-06B69279721E}|HotelAppDb\\HotelAppDb.sqlproj|solutionrelative:HotelAppDb\\dbo\\Stored Procedures\\sp_Rooms_GetAvailableRooms.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689C0AD5-2B5D-42C4-BBE9-06B69279721E}|HotelAppDb\\HotelAppDb.sqlproj|C:\\Users\\themaddiyar\\source\\repos\\HotelApp\\HotelAppDb\\dbo\\Stored Procedures\\sp_RoomTypes_GetAvailableTypes.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{689C0AD5-2B5D-42C4-BBE9-06B69279721E}|HotelAppDb\\HotelAppDb.sqlproj|solutionrelative:HotelAppDb\\dbo\\Stored Procedures\\sp_RoomTypes_GetAvailableTypes.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689C0AD5-2B5D-42C4-BBE9-06B69279721E}|HotelAppDb\\HotelAppDb.sqlproj|C:\\Users\\themaddiyar\\source\\repos\\HotelApp\\HotelAppDb\\dbo\\Stored Procedures\\sp_Bookings_AddBooking.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{689C0AD5-2B5D-42C4-BBE9-06B69279721E}|HotelAppDb\\HotelAppDb.sqlproj|solutionrelative:HotelAppDb\\dbo\\Stored Procedures\\sp_Bookings_AddBooking.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689C0AD5-2B5D-42C4-BBE9-06B69279721E}|HotelAppDb\\HotelAppDb.sqlproj|C:\\Users\\themaddiyar\\source\\repos\\HotelApp\\HotelAppDb\\dbo\\Stored Procedures\\sp_Guests_AddGuest.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{689C0AD5-2B5D-42C4-BBE9-06B69279721E}|HotelAppDb\\HotelAppDb.sqlproj|solutionrelative:HotelAppDb\\dbo\\Stored Procedures\\sp_Guests_AddGuest.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sp_Guests_AddGuest.sql ",
+              "DocumentMoniker": "C:\\Users\\themaddiyar\\source\\repos\\HotelApp\\HotelAppDb\\dbo\\Stored Procedures\\sp_Guests_AddGuest.sql",
+              "RelativeDocumentMoniker": "HotelAppDb\\dbo\\Stored Procedures\\sp_Guests_AddGuest.sql",
+              "ToolTip": "C:\\Users\\themaddiyar\\source\\repos\\HotelApp\\HotelAppDb\\dbo\\Stored Procedures\\sp_Guests_AddGuest.sql\r\n(localdb)\\ProjectModels.HotelAppDb\r\n(THEMADDIYAR\\themaddiyar)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-05T16:32:57.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sp_Bookings_AddBooking.sql ",
+              "DocumentMoniker": "C:\\Users\\themaddiyar\\source\\repos\\HotelApp\\HotelAppDb\\dbo\\Stored Procedures\\sp_Bookings_AddBooking.sql",
+              "RelativeDocumentMoniker": "HotelAppDb\\dbo\\Stored Procedures\\sp_Bookings_AddBooking.sql",
+              "ToolTip": "C:\\Users\\themaddiyar\\source\\repos\\HotelApp\\HotelAppDb\\dbo\\Stored Procedures\\sp_Bookings_AddBooking.sql\r\n(localdb)\\ProjectModels.HotelAppDb\r\n(THEMADDIYAR\\themaddiyar)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-05T16:28:35.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sp_RoomTypes_GetAvailableTypes.sql ",
+              "DocumentMoniker": "C:\\Users\\themaddiyar\\source\\repos\\HotelApp\\HotelAppDb\\dbo\\Stored Procedures\\sp_RoomTypes_GetAvailableTypes.sql",
+              "RelativeDocumentMoniker": "HotelAppDb\\dbo\\Stored Procedures\\sp_RoomTypes_GetAvailableTypes.sql",
+              "ToolTip": "C:\\Users\\themaddiyar\\source\\repos\\HotelApp\\HotelAppDb\\dbo\\Stored Procedures\\sp_RoomTypes_GetAvailableTypes.sql\r\n(localdb)\\ProjectModels.HotelAppDb\r\n(THEMADDIYAR\\themaddiyar)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-05T16:21:14.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sp_Rooms_GetAvailableRooms.sql ",
+              "DocumentMoniker": "C:\\Users\\themaddiyar\\source\\repos\\HotelApp\\HotelAppDb\\dbo\\Stored Procedures\\sp_Rooms_GetAvailableRooms.sql",
+              "RelativeDocumentMoniker": "HotelAppDb\\dbo\\Stored Procedures\\sp_Rooms_GetAvailableRooms.sql",
+              "ToolTip": "C:\\Users\\themaddiyar\\source\\repos\\HotelApp\\HotelAppDb\\dbo\\Stored Procedures\\sp_Rooms_GetAvailableRooms.sql\r\n(localdb)\\ProjectModels.HotelAppDb\r\n(THEMADDIYAR\\themaddiyar)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-05T16:03:45.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
